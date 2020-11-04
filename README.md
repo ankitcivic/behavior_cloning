@@ -13,15 +13,15 @@ Donkeycar is minimalist and modular self driving library for Python. It is devel
 Quick Links\
 Donkeycar Updates & Examples: https://www.donkeycar.com/ \
 Build instructions and Software documentation: http://docs.donkeycar.com/ \
-Discord / Chat: https://discord.com/invite/PN6kFeA\
+Discord / Chat: https://discord.com/invite/PN6kFeA
 
 
 WilShelby's\
 WilShelby's RC Car ML Development with Goggle Colab package offers and easy to use end to end learning model that also validates the model on the following parameters \
-1) Mean Model Squared error loss \
-2) Histogram of Predicted Error \
-3) Scatter Plot of Error \
-Quick Link: https://www.wilselby.com/2020/01/rc-car-ml-model-development-with-google-colab/ \
+1) Mean Model Squared error loss
+2) Histogram of Predicted Error 
+3) Scatter Plot of Error 
+Quick Link: https://www.wilselby.com/2020/01/rc-car-ml-model-development-with-google-colab/ 
 
 Our Implementation
 We found Donkeycar package more reliable and easy to implement on a scaled vehicle. We modified the Hardware and used an F1/Tenth vehicle instead.
