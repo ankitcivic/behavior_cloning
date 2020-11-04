@@ -9,11 +9,11 @@ Details of both are given below
 
 
 DONKEY CAR
-Donkeycar is minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.
-Quick Links
-Donkeycar Updates & Examples: https://www.donkeycar.com/
-Build instructions and Software documentation: http://docs.donkeycar.com/
-Discord / Chat: https://discord.com/invite/PN6kFeA
+Donkeycar is minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.\
+Quick Links\
+Donkeycar Updates & Examples: https://www.donkeycar.com/ \
+Build instructions and Software documentation: http://docs.donkeycar.com/ \
+Discord / Chat: https://discord.com/invite/PN6kFeA \
 
 
 WilShelby's
